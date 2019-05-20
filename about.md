@@ -14,7 +14,7 @@ I have diverse experience in multiple stages of a data science project implement
 — presenting insights, interpretations and visualizations to the clients
 I have also technically mentored three data science interns on NLP projects and authored a pending patent on Topic Modeling.
 
-#Related Skills: 
+### Related Skills: 
 
 Programming: Python • R • PySpark • SQL • Pig • Hive • JAVA (Prior Experience) • Scala (Prior Experience) • OOP • Algorithms • Databases
 
