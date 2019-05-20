@@ -4,6 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
+### Summary: 
+
 5+ years of experience as a data scientist with strong foundations in Machine Learning, Statistical Analysis and Computer Science. My interest lies in classical and deep learning techniques for Machine Learning and Natural Language Processing.
 
 At AT&T, I have been involved in leading projects technically as well as managing client interactions.
@@ -16,14 +18,14 @@ I have also technically mentored three data science interns on NLP projects and 
 
 ### Related Skills: 
 
-Programming: Python • R • PySpark • SQL • Pig • Hive • JAVA (Prior Experience) • Scala (Prior Experience) • OOP • Algorithms • Databases
+**Programming** - Python • R • PySpark • SQL • Pig • Hive • JAVA (Prior Experience) • Scala (Prior Experience) • OOP • Algorithms • Databases
 
-Libraries: Keras • Tensorflow • Scikit-Learn • NLTK • Gensim • Statsmodel • Seaborn • ggplot • dplyr
+**Libraries** Keras • Tensorflow • Scikit-Learn • NLTK • Gensim • Statsmodel • Seaborn • ggplot • dplyr
 
-Machine Learning: Deep Learning for NLP (CNN/LSTM) • Time-Series Forecasting (Classical and RNN) • Classification • Regression • Clustering • Statistical
+**Machine Learning** Deep Learning for NLP (CNN/LSTM) • Time-Series Forecasting (Classical and RNN) • Classification • Regression • Clustering • Statistical
 Analysis • Data Visualization 
 
 
-### Contact me
+### Contact Me:
 
 [maisamwasti@gmail.com](mailto:maisamwasti@gmail.com)
