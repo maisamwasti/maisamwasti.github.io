@@ -20,9 +20,9 @@ I have also technically mentored three data science interns on NLP projects and 
 
 **Programming** - Python • R • PySpark • SQL • Pig • Hive • JAVA (Prior Experience) • Scala (Prior Experience) • OOP • Algorithms • Databases
 
-**Libraries** Keras • Tensorflow • Scikit-Learn • NLTK • Gensim • Statsmodel • Seaborn • ggplot • dplyr
+**Libraries** - Keras • Tensorflow • Scikit-Learn • NLTK • Gensim • Statsmodel • Seaborn • ggplot • dplyr
 
-**Machine Learning** Deep Learning for NLP (CNN/LSTM) • Time-Series Forecasting (Classical and RNN) • Classification • Regression • Clustering • Statistical
+**Machine Learning** - Deep Learning for NLP (CNN/LSTM) • Time-Series Forecasting (Classical and RNN) • Classification • Regression • Clustering • Statistical
 Analysis • Data Visualization 
 
 
