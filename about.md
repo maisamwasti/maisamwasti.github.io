@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+Data Scientist by profession with 5 years of experience in Machine Learning, Statistics, Natural Language Processing, Deep Learning and Computer Programming.  
 
 ### More Information
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[maisamwasti@gmail.com](mailto:maisamwasti@gmail.com)
