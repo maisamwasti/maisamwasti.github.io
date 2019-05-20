@@ -8,12 +8,12 @@ permalink: /about/
 
 5+ years of experience as a data scientist with strong foundations in Machine Learning, Statistical Analysis and Computer Science. My interest lies in classical and deep learning techniques for Machine Learning and Natural Language Processing.
 
-At AT&T, I have been involved in leading projects technically as well as managing client interactions.
-I have diverse experience in multiple stages of a data science project implementation lifecycle, including:
-— processing large datasets on distributed systems, 
-— generating features at scale
-— implementing machine learning and statistical models and,
-— presenting insights, interpretations and visualizations to the clients
+At AT&T, I have been involved in leading projects technically as well as managing client interactions.  
+I have diverse experience in multiple stages of a data science project implementation lifecycle, including:  
+— processing large datasets on distributed systems,   
+— generating features at scale  
+— implementing machine learning and statistical models and,  
+— presenting insights, interpretations and visualizations to the clients  
 I have also technically mentored three data science interns on NLP projects and authored a pending patent on Topic Modeling.
 
 ### Related Skills: 
