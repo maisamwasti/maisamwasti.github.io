@@ -1,7 +1,9 @@
 ---
-layout: post
-title: You're up and running!
+layout: The is my first page
+title: You're up and running!asdasd
 ---
+
+
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
