@@ -1,3 +1,8 @@
+---
+layout: PMD AUTOARIMA
+title: Testing ipynb
+---
+
 
 https://www.alkaline-ml.com/pmdarima/tips_and_tricks.html
 
